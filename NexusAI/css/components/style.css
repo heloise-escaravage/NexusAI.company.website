@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css?family=Lora|Roboto");
+@import url("components/container.css")
+
+body {
+	font-family:'Lora', serif;
+	font-size: 18px;
+}
+h1,h2,h3 {
+	font-family:'Roboto', sans-serif;
+	font-weight: bold;
+}
+ <h1 style="
+    margin-left: 275px;
+    font-family: &#39;Roboto&#39;;
+    width: 981px;
+    font-size: 47px;
+    font-weight: bold;
+">NexusAI</h1>
+  <p style="
+    margin-left: 250px;
+    font-size: 25px;
+    padding: 25px;
+    border: 35px;
+    margin-right: 26px;
+">Unlock the Power of AI for Effortless Talent Acquisition</p>
+<h2 style="
+    margin-left: 230px;
+    font-size: 32px;
+    padding: 41px;
+    border: 40px;
+    margin-right: 32px;
+">1. Container</h2>
+<p style="
+    margin-left: 262px;
+    font-size: 18px;
+    padding: 10px;
+    border: 30px;
+    font-family: roboto;
+    margin-right: 24px;
+">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+</p>
+<h3 style="
+    margin-left: 231px;
+    font-size: 32px;
+    padding: 41px;
+    border: 40px;
+    font-family: roboto;
+">2. Avatar</h3>
+<img class="avatar" src="./index_files/myprofile.picture.jpeg" style="
+    margin-left: 265px;
+    font-size: 36px;
+    padding: -1px;
+    border: 40px;
+    margin-right: 32px;
+">
+
+
+
+
+
+
+
+</body></html>
